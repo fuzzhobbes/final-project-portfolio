@@ -910,7 +910,7 @@ footer .social-icons li i {
   *,
   *::before,
   *::after {
-    background: #fff !important;
+    background: rgb(129, 235, 203) !important;
     color: #000 !important;
     /* Black prints faster */
     box-shadow: none !important;
