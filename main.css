@@ -215,7 +215,6 @@ figure {
 
 header {
   background-color: #80f0ce;
-  background-image: url(https://images.seattletimes.com/wp-content/uploads/2021/03/03302021_1_100927.jpg?d=1560x1170)
 }
 
 header nav ul li {
@@ -277,7 +276,7 @@ header h2 {
 
 .home-portfolio-piece figure {
   width: 100%;
-  filter: drop-shadow(1px 2px 6px lightgrey);
+  filter: drop-shadow(1px 2px 6px rgb(87, 225, 230));
 }
 
 .project-link {
@@ -288,7 +287,7 @@ header h2 {
 }
 
 .project-link:hover {
-  background-color: #CAC4D1;
+  background-color: #77e9d0;
   color: #453E4F;
 }
 
