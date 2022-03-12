@@ -6,7 +6,7 @@ body {
   font-size: 1em;
   font-family: 'Open Sans', sans-serif;
   color: #453E4F;
-  background-color: rgb(59, 198, 223);
+  background-color: rgb(184, 240, 226);
   /* Sometimes the default background for a browser isn't exactly white. Adding a default allows more consistency between browsers. */
 }
 
@@ -302,7 +302,7 @@ header h2 {
 
 .language-wrapper p,
 .tool-wrapper p {
-  background-color: #F19494;
+  background-color: #32d4ab;
   padding: 15px 0;
   margin: 20px 0;
 }
